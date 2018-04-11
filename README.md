@@ -3,7 +3,7 @@ Python 筆記
 
 ###### tags: `python` `numpy` `scipy` `matplotlib`
 
-寫給自己看的 Pyhton 筆記。
+寫給自己看的 Python 筆記。
 
 ---
 
