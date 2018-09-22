@@ -7,4 +7,4 @@ Python 筆記
 - [01.04 名稱空間](01.04-namespace.ipynb)
 - [02.01 numpy.array](02.01-numpy.array.ipynb)
 - [03.01 scipy.interpolate.Rbf](03.01-scipy.interpolate.Rbf.ipynb)
-- [03.02 scipy.optimize](03.02-scipy.optimize.ipynb)
+- [03.02 scipy.optimize.minimize](03.02-scipy.optimize.minimize.ipynb)
